@@ -6,6 +6,7 @@ import concurrent.futures
 import time
 from tqdm import tqdm
 import csv
+import pandas as pd
 
 #获取当当网网页
 def request_dandan(url):
