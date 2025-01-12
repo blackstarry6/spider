@@ -48,9 +48,6 @@ def parse_result(html):
 
     print("数据已写入文件")
    
-
-
-
 #数据写入文件
 def write_item_to_file(item):
     print('开始写入数据 ====> ' + str(item))
